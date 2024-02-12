@@ -3,7 +3,7 @@
 ### X(Twitter)
 ### Github Stats
 ### Languege
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={takoyaki-neonz-net}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
