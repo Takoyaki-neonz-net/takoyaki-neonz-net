@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World
+### Discord
+### X(Twitter)
+### Github Stats
+### Languege
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Takoyaki-neonz-net/takoyaki-neonz-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
