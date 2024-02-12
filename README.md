@@ -1,9 +1,10 @@
 ### Hello World
 ### Discord
 ### X(Twitter)
-![X](<a class="twitter-timeline" href="https://twitter.com/Takoyaki_Neonz?ref_src=twsrc%5Etfw">Tweets by Takoyaki_Neonz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> )
+![X](<a class="twitter-timeline" href="https://twitter.com/Takoyaki_Neonz?ref_src=twsrc%5Etfw">Tweets by Takoyaki_Neonz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+@[gist](https://twitter.com/Takoyaki_Neonz)
 ### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Takoyaki&show_icons=true&theme=highcontrast)
 ### TOP Languege
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
