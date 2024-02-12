@@ -1,9 +1,11 @@
 ### Hello World
 ### Discord
 ### X(Twitter)
+![X](<a class="twitter-timeline" href="https://twitter.com/Takoyaki_Neonz?ref_src=twsrc%5Etfw">Tweets by Takoyaki_Neonz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> )
 ### Github Stats
-### Languege
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+### TOP Languege
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Takoyaki-neonz-net/takoyaki-neonz-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
