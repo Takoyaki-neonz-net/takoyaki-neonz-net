@@ -1,5 +1,8 @@
 ### Hello World
 I'm Programer
+####Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/takoyaki_neonz)](https://discord.com/users/takoyaki_neonz)
+
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Takoyaki&show_icons=true&theme=highcontrast)
 ### TOP Languege
